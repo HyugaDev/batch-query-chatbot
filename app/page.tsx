@@ -183,17 +183,6 @@ export default function BatchQueryChatbot() {
               <p className="text-sm text-muted-foreground">AI-powered image analysis for e-commerce</p>
             </div>
           </div>
-          <div className="flex items-center gap-2">
-            <Button variant="ghost" size="sm">
-              <Search className="h-4 w-4" />
-            </Button>
-            <Button variant="ghost" size="sm">
-              <Brain className="h-4 w-4" />
-            </Button>
-            <Button variant="ghost" size="sm">
-              <MoreHorizontal className="h-4 w-4" />
-            </Button>
-          </div>
         </div>
       </header>
 
